@@ -1,0 +1,5 @@
+nltk==3.5
+wordcloud==1.6.0
+attrs==19.3.0
+cutecharts==1.2.0
+pandas==0.3.0
